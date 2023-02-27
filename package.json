@@ -23,7 +23,7 @@
   "homepage": "https://github.com/serverless/serverless-kubeless#readme",
   "dependencies": {
     "aws-sdk": "^2.527.0",
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.7.2",
     "chalk": "^2.0.1",
     "js-yaml": "^3.9.0",
     "jszip": "^3.1.3",
